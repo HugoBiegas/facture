@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Pour pouvoir accèder au site veuillez entrer votre identifiant et vorte mot de passe."
+Require valid-user
+AuthUserFile "C:\wamp64\www\facture\.htpasswd"
